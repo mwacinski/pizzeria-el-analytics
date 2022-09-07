@@ -17,6 +17,7 @@ git clone https://github.com/mwacinski/pizzeria-el-analytics.git
 
 In your project directory run the following command.
 ```bash
+cd pizzeria-el-analytics
 docker-compose up --build -d
 docker ps
 ```
